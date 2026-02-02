@@ -27,6 +27,14 @@ I follow college football and have a casual interest in sports betting, but I do
 - **AI-assisted coding:** Use AI to help me write Python scripts that calculate expected value, simulate betting outcomes, and analyze historical sports data.
 - **Concept exploration:** Have AI explain how professional sports analysts and oddsmakers use models, and walk me through building a simple predictive model step by step.
 
+### What Proof I'll Produce (Deliverables)
+
+- Python scripts for EV calculations and betting simulations
+- Analysis of historical sports data with visualizations
+- Documentation of key concepts learned (probability, odds, statistical models)
+- Simple predictive model implementation
+- Weekly reflections on learning progress
+
 ---
 
 ## Topic 2: Stock Market Analysis
@@ -51,6 +59,91 @@ Investing is an important life skill, and I want to understand how the stock mar
 - **AI-assisted coding:** Use AI to help me write Python scripts that pull stock data (using libraries like yfinance), calculate technical indicators, and visualize trends.
 - **Simulated practice:** Have AI help me create a paper trading strategy and evaluate its performance over historical data.
 
+### What Proof I'll Produce (Deliverables)
+
+- Python scripts for stock data analysis and visualization
+- Technical indicator calculations and chart analysis examples
+- Fundamental analysis of 2-3 selected companies
+- Paper trading strategy with performance evaluation
+- Weekly reflections and learning documentation
+
+---
+
+## Weekly Learning Plan
+
+### Weeks 1-4 (February)
+
+- **Sports Betting:** Core concepts (odds, probability, EV calculations)
+- **Stock Market:** Market fundamentals and basic financial statements
+- **Deliverable:** Initial concept notes and simple scripts
+
+### Weeks 5-8 (March)
+
+- **Sports Betting:** Statistical models and data analysis techniques
+- **Stock Market:** Technical analysis and chart reading
+- **Deliverable:** Working analysis scripts with real data
+
+### Weeks 9-12 (April)
+
+- **Sports Betting:** Predictive modeling and bankroll management
+- **Stock Market:** Options basics and trading strategies
+- **Deliverable:** Complete analysis tools and paper trading results
+
+### Weeks 13-15 (May)
+
+- **Both Topics:** Refinement, documentation, and final demonstrations
+- **Deliverable:** Final presentation and comprehensive documentation
+
+---
+
+## How I'll Use AI Responsibly
+
+### Verification & Understanding
+
+- Never blindly copy AI-generated code without understanding it
+- Test all AI-provided code and verify outputs manually
+- Ask follow-up questions until I truly understand concepts
+- Implement concepts myself to validate understanding
+
+### Prompting Strategy
+
+- Start with broad concept questions, then drill down into specifics
+- Ask AI to explain "why" not just "how"
+- Request multiple approaches to solve problems
+- Have AI explain trade-offs and limitations
+
+### Citation & Attribution
+
+- Document when AI tools help generate code (comments in scripts)
+- Cite external resources AI recommends in `resources.md` files
+- Keep notes on which concepts required AI help vs. independent work
+- Be transparent about the learning process in reflections
+
+---
+
+## Repository Structure
+
+```
+ase485-learning-with-ai/
+├── README.md (this file)
+├── docs/
+│   └── ppp_learning_with_ai.md (Marp presentation)
+├── topics/
+│   ├── sports-betting-analytics/
+│   │   ├── notes.md
+│   │   ├── experiments/
+│   │   ├── resources.md
+│   │   └── reflection.md
+│   └── stock-market-analysis/
+│       ├── notes.md
+│       ├── experiments/
+│       ├── resources.md
+│       └── reflection.md
+├── weekly-log/
+│   └── weekly-progress.md
+└── mini-projects/
+```
+
 ---
 
 ## AI Tools I Will Use
@@ -59,6 +152,8 @@ Investing is an important life skill, and I want to understand how the stock mar
 - **ChatGPT (OpenAI):** Secondary tool for alternative explanations and coding help.
 - **GitHub Copilot:** For assistance with writing analysis scripts and code.
 
-## Progress
+---
 
-Progress updates and learning artifacts will be added to this repository as I work through each topic throughout the semester.
+## Progress Tracking
+
+Progress updates and learning artifacts are organized in the folder structure above. Check the `topics/` folders for notes, experiments, and reflections, and the `weekly-log/` for regular progress updates.
