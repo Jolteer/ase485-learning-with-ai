@@ -48,7 +48,7 @@ class: lead
 
 ---
 
-# Expected Value — What AI Taught Me
+# Expected Value
 
 - A book listing Team A at 2.10 implies roughly a 47.6% win probability
 - If you honestly estimate the real chance at 52%, that's a meaningful edge
